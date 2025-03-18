@@ -1,0 +1,15 @@
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\bin\Debug\net9.0\GROUP1.exe
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\bin\Debug\net9.0\GROUP1.deps.json
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\bin\Debug\net9.0\GROUP1.runtimeconfig.json
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\bin\Debug\net9.0\GROUP1.dll
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\bin\Debug\net9.0\GROUP1.pdb
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.AssemblyInfoInputs.cache
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.AssemblyInfo.cs
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.csproj.CoreCompileInputs.cache
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.sourcelink.json
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.dll
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\refint\GROUP1.dll
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.pdb
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\GROUP1.genruntimeconfig.cache
+C:\Users\CLXUD\Desktop\KPI\Github PROJECTS\GROUP-PROJECT1\GROUP1\obj\Debug\net9.0\ref\GROUP1.dll
